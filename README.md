@@ -3,7 +3,7 @@
 O objetivo é criar um guia definitivo para se tornar um Desenvolvedor Web Fullstack PHP, listando tudo que é necessário para alcançar esse sonho de muitos devs.
 
 
-## Lista do que apreender
+## Lista do que aprender
 
 1. Lógica
 2. Htm
