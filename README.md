@@ -17,6 +17,7 @@ O objetivo é criar um guia definitivo para se tornar um Desenvolvedor Web Fulls
 7. Apache e Nginx
 8. Vagrant
 9. Git
+  * **Primeiro repositório e commit** ([Link](http://richellyitalo.com/pt/git-no-windows-guia-completo-para-seu-primeiro-repositorio))
 10. Testes
 11. Linha de comando(terminal) (edited)
 
