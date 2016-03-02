@@ -41,17 +41,21 @@ O objetivo é criar um guia definitivo para se tornar um Desenvolvedor Web Fulls
   *  [**Herança #1**](https://www.youtube.com/watch?v=1Y0nSEMvTt0)
   *  [**Herança #2**](https://www.youtube.com/watch?v=hDhoO86cfh8)
 2. PHP básico
+  * [**Curso - PHP Essencial(Grátis)**](https://www.webdevbr.com.br/curso-php-essencial)
 3. PHP OO
-4. Patterns
+4. Patterns & Padrões 
+  * [**Curso - Introdução a padrões de Projetos(Grátis)**](https://www.webdevbr.com.br/curso-introducao-a-padroes-de-projeto)
 5. Javascript avançado, JQuery
 6. Frameworks
 7. Apache e Nginx
 8. Vagrant
 9. Git
-  * **Primeiro repositório e commit** ([Link](http://richellyitalo.com/pt/git-no-windows-guia-completo-para-seu-primeiro-repositorio))
+  * [**Primeiro repositório e commit(Windows)**](http://richellyitalo.com/pt/git-no-windows-guia-completo-para-seu-primeiro-repositorio)
+  * [**Curso - Git Iniciante (Grátis)**](https://www.webdevbr.com.br/cursos-git-iniciante)
 10. Testes
 11. Linha de comando(terminal)
-
+12. Composer
+  * [**Curso - Composer na prática (Grátis)**] (https://www.webdevbr.com.br/composer-na-pr%C3%A1tica)
 
 ## TODO
 1. Colocar links de materiais e indicar cursos
