@@ -6,7 +6,7 @@ O objetivo é criar um guia definitivo para se tornar um Desenvolvedor Web Fulls
 ## Lista do que aprender
 
 1. Lógica
-2. Htm
+2. Html
 3. Css 
 4. Javascript Básico
   *  [**Introdução sobre javascript**](https://www.youtube.com/watch?v=093dIOCNeIc)
@@ -35,7 +35,7 @@ O objetivo é criar um guia definitivo para se tornar um Desenvolvedor Web Fulls
 9. Git
   * **Primeiro repositório e commit** ([Link](http://richellyitalo.com/pt/git-no-windows-guia-completo-para-seu-primeiro-repositorio))
 10. Testes
-11. Linha de comando(terminal) (edited)
+11. Linha de comando(terminal)
 
 
 ## TODO
