@@ -8,7 +8,23 @@ O objetivo é criar um guia definitivo para se tornar um Desenvolvedor Web Fulls
 1. Lógica
 2. Htm
 3. Css 
-4. Javascript Básico 
+4. Javascript Básico
+  *  [**Introdução sobre javascript**](https://www.youtube.com/watch?v=093dIOCNeIc)
+  *  [**Number**](https://www.youtube.com/watch?v=-4Er-sZoxHM)
+  *  [**String**](https://www.youtube.com/watch?v=c3vaqf9x1PQ)
+  *  [**Boolean**](https://www.youtube.com/watch?v=oP2ProYre4k)
+  *  [**undefined e null**](https://www.youtube.com/watch?v=dhaLnhvOyFc)
+  *  [**Object**](https://www.youtube.com/watch?v=A_E-K69j93Q)
+  *  [**Function**](https://www.youtube.com/watch?v=OqR0hE-DQn4)
+  *  [**Function #1**](https://www.youtube.com/watch?v=OqR0hE-DQn4)
+  *  [**Function #2**](https://www.youtube.com/watch?v=m9uPpURTI0c)
+  *  [**Array**](https://www.youtube.com/watch?v=oUx0leLZSbY)
+  *  [**Expressões**](https://www.youtube.com/watch?v=9r48XuOB4DA)
+  *  [**Date**](https://www.youtube.com/watch?v=UHMIiIykjRY)
+  *  [**Operadores**](https://www.youtube.com/watch?v=lqTjJGQCq_4)
+  *  [**Statements**](https://www.youtube.com/watch?v=V8vBGk_1GUY)
+  *  [**Herança #1**](https://www.youtube.com/watch?v=1Y0nSEMvTt0)
+  *  [**Herança #2**](https://www.youtube.com/watch?v=hDhoO86cfh8)
 2. PHP básico
 3. PHP OO
 4. Patterns
