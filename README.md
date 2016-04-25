@@ -45,6 +45,10 @@ O objetivo é criar um guia definitivo para se tornar um Desenvolvedor Web Fulls
 3. PHP OO
 4. Patterns & Padrões 
   * [**Curso - Introdução a padrões de Projetos(Grátis)**](https://www.webdevbr.com.br/curso-introducao-a-padroes-de-projeto)
+  * [**SOLID - O Princípio da Responsabilidade Única**](http://code.tutsplus.com/pt/tutorials/solid-part-1-the-single-responsibility-principle--net-36074)
+  * [**SOLID - Princípio do Aberto para Expansão, Fechado para Modificação**](http://code.tutsplus.com/pt/tutorials/solid-part-2-the-openclosed-principle--net-36600)
+  * [**SOLID -Princípios da Substituição de Liskov e Segregação de Interfaces**](http://code.tutsplus.com/pt/tutorials/solid-part-3-liskov-substitution-interface-segregation-principles--net-36710)
+  * [**SOLID - Princípio da Inversão de Dependência**](http://code.tutsplus.com/pt/tutorials/solid-part-4-the-dependency-inversion-principle--net-36872)
 5. Javascript avançado, JQuery
 6. Frameworks
 7. Apache e Nginx
